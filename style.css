@@ -1,0 +1,109 @@
+#navbar{
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    padding: 16px;
+    text-decoration: none;
+    overflow: hidden;
+    color: white;
+    margin: 0;
+}
+
+
+#address_section{
+    
+    color: black;
+    height: 120px;
+    text-align: center;
+    padding-top: 65px;
+    }
+.first_h1{
+    margin: 0;
+}
+
+body{
+    margin: 0;
+    width: 100%;
+    background-color:rgb(251, 249, 249);
+    
+}
+h3{
+    color: black;
+    margin: 0;
+}
+
+#portfolio{
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    
+    color: black;
+    margin: 0;
+    width: 80%;
+}
+
+#about_me{
+   
+    background-color:rgb(158, 145, 145);
+    margin: 0;
+    color: black;
+    height: auto;
+    width: 80%;
+}
+
+#qualification{
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    background-color: azure;
+    margin: 0;
+    width: 80%;
+}
+
+.about_left{
+    width: 30%;
+    padding-left:1%;
+    
+}
+.about_right{
+    width: 50%;
+    padding-left: 3px;
+}
+#skills{
+    margin: 0;
+    padding-left: 5%;
+   
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    color: black;
+    
+}
+#contact{
+    margin: 0;
+    padding-left: 5%;
+    background-color:rgb(251, 250, 250);
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+
+}
+form{
+    padding: 20px;
+    background-color:rgb(251, 249, 249);
+    
+}
+.social{
+    background-color:rgb(225, 194, 194);
+    padding-bottom: 50px;
+}
+.paragraph{
+    
+    
+    line-height: 50px;
+}
+hr{
+    height: 10px;
+    width: 100%;
+
+}
